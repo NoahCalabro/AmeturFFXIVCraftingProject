@@ -16,3 +16,5 @@ Once it establishes information about the player and recipe, it then performs a 
 
 This works well for low level crafting, but with how it currently works, higher levels seem to go on for a long time, which isn't good for the users. However, given that other programs like this exist, like Teamcraft
 I know it should be possible to create something like this.
+
+The C files are in the FFXIV_Crafting Folder
