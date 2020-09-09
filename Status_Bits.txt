@@ -1,0 +1,30 @@
+	bool Good = false;
+	//Increases quality by x1.5
+	bool Excellent = false;
+	//Increases quality by x4
+	bool Poor = false;
+	//Increaes quality by x0.5
+
+	int InnerQuiet = 0;
+	//Grants a bonus to control with each increfase in quality. Bonus stacks up to 11 times.
+	int WasteNot = 0;
+	//Reduce loss of durability by 50% for the next four steps. 
+	int Veneration = 0;
+	//Increases efficiency of Synthesis actions by 50% for the next four steps
+	int GreatStrides = 0;
+	//Increases the efficiency of next Touch action by 100%. Effect active for three steps. 
+	int Innovation = 0;
+	//Increases efficiency of Touch actions by 50% for the next four steps
+	int NameofTheElements = 0;
+	//For the next 3 steps, Brand of the Elements effiency is increases by up to 200%. Increases
+	//determined by current progress. Can only be used once per synthesis.
+	int FinalAppraisal = 0;
+	//The next action that would complete item synthesis will instead leave one progress point remaining.
+	//Effect active for five steps.
+	int WasteNotII = 0;
+	//Reduce loss of durability by 50% for the next eight steps.
+	int Manipulation = 0;
+	//Restores 5 points of durability after each step for the next eight steps. 
+	int CarefulObservations = 3;
+	//Do nothing for one step, preserving the status of any actions presently in effect.
+	//Can only be used up to three times per synthesis. This action does not increase the step count
