@@ -1,4 +1,4 @@
-This is a project meant to try to create a code to help in the crafting system of the video game Final Famtasu 14 (FFXIV).
+This is a project meant to try to create a code to help in the crafting system of the video game Final Fantasy 14 (FFXIV).
 
 It is meant to take information about the player and the crafting recipe that they are intending to use, and return back the best series of steps. 
 
